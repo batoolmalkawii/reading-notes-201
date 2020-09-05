@@ -24,7 +24,7 @@ Currently, I'm working my way to become a Software Development Engineer who is p
 |[09 - Forms and Events](README.md)|
 |[10 - JS Debugging](README.md)|
 |[11 - Assorted Topics](README.md)|
-|[12 - Docs for the HTML <canvas> Element & Chart.js](README.md)|
+|[12 - Docs for the HTML Element & Chart.js](README.md)|
 |[13 - Local Storage](README.md)|
 |[14a - CSS Transforms, Transitions, and Animations](README.md)|
 |[Read: 14b - What Google Learned About Teams](README.md)|  
