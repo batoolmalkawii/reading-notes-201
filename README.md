@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# CODE 201 Reading Notes
+## Hey! this is Explore the Tech blog.
 
-You can use the [editor on GitHub](https://github.com/batoolmalkawii/reading-notes-201/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this blog, you'll find various topics realted to web development _explained in a simple, neat way!_
+You'll find in depth discussions and topics about the foundation of web development: **HTML, CSS, Javascript** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+But first, let me introduce myself to you guys!
+My name is Batool Malkawi. I am a masters graduate from the University of Jordan in the major of Computer Science.
+I've been working in Data Science research for the past two years. Mostly, I worked in Clustering, Community Detection, Distributed systems and Computational Performance.
+Currently, I'm working my way to become a Software Development Engineer who is passionate and motivated to create something, Inshallah!
 
-### Markdown
+***Checkout our topics!***
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/batoolmalkawii/reading-notes-201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Topic      |
+| :-----:|
+|[01 - Introductory HTML and JavaScript](.mdREADME.md)|
+|[02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](README.md)|
+|[03 - HTML Lists, CSS Boxes, JS Control Flow](README.md)|
+|[04 - HTML Links, CSS Layout, JS Functions](README.md)|
+|[05 - HTML Images; CSS Color & Text](README.md)|
+|[06 - JS Object Literals; The DOM](README.md)|
+|[07 - HTML Tables; JS Constructor Functions](README.md)|
+|[08 - More CSS Layout](README.md)|
+|[09 - Forms and Events](README.md)|
+|[10 - JS Debugging](README.md)|
+|[11 - Assorted Topics](README.md)|
+|[12 - Docs for the HTML <canvas> Element & Chart.js](README.md)|
+|[13 - Local Storage](README.md)|
+|[14a - CSS Transforms, Transitions, and Animations](README.md)|
+|[Read: 14b - What Google Learned About Teams](README.md)|  
