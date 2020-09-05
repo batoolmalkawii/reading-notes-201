@@ -1,10 +1,10 @@
 # CODE 201 Reading Notes
 ## Hey! this is Explore the Tech blog.
 
-    In this blog, you'll find various topics realted to web development _explained in a simple, neat way!_
+In this blog, you'll find various topics realted to web development _explained in a simple, neat way!_
 You'll find in depth discussions and topics about the foundation of web development: **HTML, CSS, Javascript** 
 
-    But first, let me introduce myself to you guys!
+But first, let me introduce myself to you guys!
 My name is Batool Malkawi. I am a masters graduate from the University of Jordan in the major of Computer Science.
 I've been working in Data Science research for the past two years. Mostly, I worked in Clustering, Community Detection, Distributed systems and Computational Performance.
 Currently, I'm working my way to become a Software Development Engineer who is passionate and motivated to create something, Inshallah!
