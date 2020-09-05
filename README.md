@@ -13,7 +13,7 @@ Currently, I'm working my way to become a Software Development Engineer who is p
 
 | Topic      |
 | :-----:|
-|[01 - Introductory HTML and JavaScript](.mdREADME.md)|
+|[01 - Introductory HTML and JavaScript](class-01.md)|
 |[02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](README.md)|
 |[03 - HTML Lists, CSS Boxes, JS Control Flow](README.md)|
 |[04 - HTML Links, CSS Layout, JS Functions](README.md)|
