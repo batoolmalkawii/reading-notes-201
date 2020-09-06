@@ -30,7 +30,7 @@ However, if there are 2 or more rules that apply to the same element, the rule i
 There are 2 ways to associate the **CSS** with the HTML file: _internal_ using `<style>` tag, and external using `<link>` tag to a separate `.css` file.
 
 
-### 3. Basic Javascript instructions:
+### 3. Basic _Javascript_ instructions:
 Here, I'm going to summarize some basic concepts and instructions related to _Javascript_.
 * **Script:** a series of instructions followed by a computer to accomplish a task.
 * **Statement:** a single instruction used in the script. A group of statements form a script.
