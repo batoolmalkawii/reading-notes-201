@@ -27,4 +27,4 @@ Currently, I'm working my way to become a Software Development Engineer who is p
 |[12 - Docs for the HTML Element & Chart.js](README.md)|
 |[13 - Local Storage](README.md)|
 |[14a - CSS Transforms, Transitions, and Animations](README.md)|
-|[Read: 14b - What Google Learned About Teams](README.md)|  
+|[14b - What Google Learned About Teams](README.md)|  
