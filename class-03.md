@@ -15,5 +15,5 @@ Each tag in HTML is considered a _Box_. The specifications, styles, and sizes of
 * Limiting Width: `min-width` and `max-width`.
 * Limiting Height: `min-height` and `max-height`.
 * Overflow Content: `overflow` with the following options: `scroll` and `hidden`.
-* Borders: `border`, `border-width` and `border-style`.
+* Borders: `border`, `border-width`, `border-image` and `border-style`.
 * Padding: 
