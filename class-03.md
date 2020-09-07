@@ -52,6 +52,7 @@ break;
 }`
 
 2. Loops:
+
 `for`: tells the code to execute for a cpecified number of times according to some condition in the _counter_. The condition is made up of 3 parts as follows:
   
    + initialization: `var i = 0;`.
