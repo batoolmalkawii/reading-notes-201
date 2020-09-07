@@ -52,19 +52,19 @@ break;
 }`
 
 2. Loops:
-  1. `for`: tells the code to execute for a cpecified number of times according to some condition in the _counter_. The condition is made up of 3 parts as follows:
+ * `for`: tells the code to execute for a cpecified number of times according to some condition in the _counter_. The condition is made up of 3 parts as follows:
   
    + initialization: `var i = 0;`.
    + condition: `i < 10;`.
    + update: `i++;`.
   In the previouse example, the first time the code runs, `i` is assigned to `0`. Then, each time the code runs, the condition `i < 10;` is checked. If `true`, the code inside the loop is run and the value of `i` is increased by `1` in the _update step_.
   
-  2. `while`: the difference between `for` and `while` is the structure of the loop. In `while`, it is like telling to code to keep running until the condition is no longer `true`.
+ * `while`: the difference between `for` and `while` is the structure of the loop. In `while`, it is like telling to code to keep running until the condition is no longer `true`.
   
    + condition: `i < 10;` (written before the body of the loop).
    + update: `i++;` (written after the body of the loop).
    
-  3. `do-while`: The main difference between a while loop and a do whi 1 eloop is that the statements in the code block come before the condition. This means that those statements are run once whether or not the condition is met.
+ * `do-while`: The main difference between a while loop and a do whi 1 eloop is that the statements in the code block come before the condition. This means that those statements are run once whether or not the condition is met.
       - Example:
   `do {
     msg += i + ' x 5 = ' + (i * 5) + '<br I>' ;s
