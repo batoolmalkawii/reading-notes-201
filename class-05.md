@@ -1,6 +1,6 @@
 # Explore the Tech!
 
-In today's blog, I am goint to discuss some topics related to web development using **HTML AND CSS**. So, _let's get started!_
+In today's blog, I am going to discuss some topics related to web development using **HTML AND CSS**. So, _let's get started!_
 
 ### 1. Images in _HTML_:
 To add an image into the page you need to use an `<img>` element. It must carry the following two attributes: `src`, which tells the browser where it can find the image file. `alt`, whcih provides a text description of the image which describes the image if you cannot see it, and `title` to provide additional information about the image. There are addintional attributes that can be added to the `<img>` tag, described as follows:
