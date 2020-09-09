@@ -25,4 +25,27 @@ The `color` property allows you to specify the color of text inside an element (
 Every color on a computer screen is created by mixing amounts of red, green, and blue. To find the color you want, you can use a color picker. the `opacity`
 property which allows you to specify the opacity of an element and any of its child elements. Also, `rgba` property allows you to specify a color, just like you would with an RGB value, but adds a fourth value to indicate opacity.
 Also, _CSS_ uses another coloring scheme, which is _hue, saturation and brightness_. It is defined by the `hsl` and `hsla` porperty that indicates the values of the 3 features. 
-### 3. Text
+
+### 3. Text in _CSS_:
+Typeface terminologies (fonts) used in css include the following:
+* Serif: have extra details on the ends of the main strokes of the letters.
+* Sans-Serif: have straight ends to letters.
+* Monospace: every letter in a monospace (or fixed-width) font is the same width.
+* Cursive: either have joining strokes or other cursive characteristics.
+* Fantasy: usually decorative fonts and are often used for titles.
+* Weight: Light, Medium, **Bold**, ***Black***
+* Style: Normal, _Italic_, Oblique.
+* Stretch: Condensed, Regular, Extended.
+
+The following properties are used with fonts in _CSS_:
+* `font-family` property is used to specify a font of the text.
+* `font-size` that can be in `px`, `em` and `%`. 
+* `font-weight` that contains `normal` and `bold`.
+* `font-style` contains `normal`, `italic` and `oblique`.
+* `text-transform` used to change the case of text giving it one of the following values: `capitalize`, `lowercase`, and `uppercase`.
+* `text-decoration`: `none`, `underline`, `overline`, `line-through`, and `blink`.
+* `line-height` sets the height of an entire line of text.
+* `letter-spacing` and `word-spacing`.
+* `text-align`: `left`, `right`, `center`, and `justify`.
+* `vertical-align`: `baseline`, `sub`, `super`, `top`, `text-top`, `middle`, `bottom`, and `text-bottom`.
+* `text-indent`.
