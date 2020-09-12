@@ -46,3 +46,15 @@ To access elements in DOM tree, the _DOM Queries_ are used. DOM queries may retu
 Also, to select an element from a nodelist, two ways are used:
 ##### 1. The `item` method. `var fItem = element.item(0);`
 ##### 2. Array Syntax. `var fItem = elements[0];`
+
+To acces a _nodelist_, we can loop through it using _for_ loop. Also, to add and remove the HTML content, from a DOM tree, we can use the following:
+* `innerHTML` property: updating the entire fragment. You can access and amend the contents of an element, including any child elements.
+* DOM manipulation: updates individual nodes in the tree. Also, DOM manipulation offers another technique to add new content to a page using `createElement()`, `createTextNode()` and `appendChild()`. Furthermore, DOM manipulation is used to remove elements by:
+##### 1. storing the element to be removed in a variable.
+##### 2. store the parent of that element in a variable.
+##### 3. remove the element from its containing element.
+
+In conclusion, DOM trees have four types of nodes: _document nodes, element nodes, attribute nodes, and text nodes._ You can select element nodes by their _id_ or _class attributes_, by _tag name_, or using _CSS selector_ syntax. Whenever a DOM query can return more than one node, it will always return a **Nodelist**.
+From an element node, you can access and update its content using properties such as _textContent_ and _innerHTM_L or using _DOM manipulation_ techniques.
+An element node can contain multiple text nodes and child elements that are siblings of each other. In older browsers, implementation of the DOM is inconsistent. However, Browsers offer tools for _viewing_ the DOM tree .
+
