@@ -27,3 +27,22 @@ Objects group together a set of variables and functions to create a model of a s
  To access an obkect, we can use the ***dot notation*** or ***square brackets***. `var storeName = toySotre.name;` or `var storeName = toySotre['name'];`, `freeToys = availableToys();`
 
 
+### 3. Document Object Model in _Javascript_:
+The Document Object Model (DOM) specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window. The following are the main functionalities of _DOM_:
+* When the browser loads a web page, it creates a model of the page in memory.
+* Defines methods and properties to access and update each object in this models which in turn updates what the user sees in the browser.
+* The DOM states what your script can "ask the browser about the current page, and how to tell the browser to update what is being shown to the user.
+
+Also, Each node is an object with _methods_ and _properties_. Scripts access and update this **DOM tree** (not the source HTML file), where any changes made to the DOM tree are reflected in the browser. Accessing and updating the DOM tree involves two steps:
+##### 1. Locate the node that represents the element you want to work with.
+##### 2. Use its text content, child elements, and attributes.
+To access elements in DOM tree, the _DOM Queries_ are used. DOM queries may return one element, or they may return a Nodelist, which is a collection of nodes. The following are examples of methods that return a single/multiple element node/nodelist:
+* `getElementByld('id')`. Single
+* `querySelector('css selector')`. Single
+* `getElementsByClassName('class')`. Multiple
+* `getElementsByTagName('tagName')`. Multiple
+* `querySelectorAll('css selector')`. Multiple
+
+Also, to select an element from a nodelist, two ways are used:
+##### 1. The `item` method. `var fItem = element.item(0);`
+##### 2. Array Syntax. `var fItem = elements[0];`
