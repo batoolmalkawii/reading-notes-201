@@ -20,3 +20,18 @@ var corgiFail = new EpicFailVideo(4, true);
 ```
 
 Also, _random number generators_ are useful when using objects and contructors.
+
+
+### 2. Tables in _HTML_:
+A table represents information in a grid format. Each block in the grid is referred to as a _table cell_. In HTML, atable is written out row by row. The following is the structure of the table in HTML:
+* `<table>`: creates a table.
+* `<tr>`: rows.
+* `<td>`: columns.
+* `<th>`: table headings.
+* `colspan`: stretchs the entry across more than one column.
+* `rowspan`: stretchs the entry across more than one row.
+* `<thead>`: the headings of the table should sit inside it.
+* `<tbody>`: the body should sit inside it.
+* `<tfoot>`: the footer belongs inside it
+
+
