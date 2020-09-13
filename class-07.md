@@ -35,3 +35,45 @@ A table represents information in a grid format. Each block in the grid is refer
 * `<tfoot>`: the footer belongs inside it
 
 
+### 3. Functions, Methods, and Objects in _Javascript_:
+To create an object using the _constructor_ notation, the keyword `new` is used. Here's an example: `var hotel = new object();`, then you assign values to its properties. Also, the _dot_ notation and _square brackets_ are used to _update_ the object's properties. To delete and objet, `delete` keyword is used. Furthermore, you can create an instance of the object using the constructor function.
+
+Example: 
+```
+function Hotel (name, rooms, booked) {
+this .name = name;
+this.rooms = rooms;
+this.booked = booked;
+this.checkAvailability = function()
+return this.rooms - this.booked;
+} ;
+var quayHotel
+var parkHotel
+new Hotel('Quay', 40, 25);
+new Hotel( ' Park', 120, 77);
+```
+The following are significant features used in contructors and objects:
+* `this`: used to refer to the object, used inside of it, and it is often associated with a property of that object: `this.name = "Batool"`.
+* Storing properties: `variables` and `arrays`.
+* Declaring objects: 
+1. Literal Noration (Individual objects):
+``` 
+var hotel = {
+name: ' Quay',
+rooms: 40
+};
+```
+2. Constructor Function (Multiple Objects):
+```
+function Hotel (name, rooms){
+this .name = name;
+this.rooms = rooms;
+}
+```
+* Arrays: arrays in objects can be accessed by their index: `costs.room1.items[0]`.
+
+There are several _built-in_ objects in javascript, such as the following:
+* Browser Object Model.
+* Document Object Model.
+* Global Javascript Objects.
+
