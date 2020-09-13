@@ -19,7 +19,7 @@ Currently, I'm working my way to become a Software Development Engineer who is p
 |[04 - HTML Links, CSS Layout, JS Functions](class-04.md)|
 |[05 - HTML Images; CSS Color & Text](class-05.md)|
 |[06 - JS Object Literals; The DOM](class-06.md)|
-|[07 - HTML Tables; JS Constructor Functions](README.md)|
+|[07 - HTML Tables; JS Constructor Functions](class-07.md)|
 |[08 - More CSS Layout](README.md)|
 |[09 - Forms and Events](README.md)|
 |[10 - JS Debugging](README.md)|
