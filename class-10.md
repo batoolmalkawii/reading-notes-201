@@ -23,3 +23,21 @@ Another thing is **Error objects**, whcih can help you find where your mistakes 
 * `Range Error`.
 * `Error`: the template (or prototype) from which all other error objects are created.
 * `NaN`: not an error, (Not a Number).
+
+To deal with errors, two things can be done:
+1. Debug the script to fix errors. `debugger` keyword in browsers.
+2. Handle errors gracefully. `try`, `catch`, `throw`, and `finally`.
+
+Here are a selection of practical tips that you can try to use when debugging your scripts:
+* Another browser.
+* Add numbers.
+* Strip it back.
+* Explain the code. 
+* Search.
+* Code playgrounds.
+* Validation tools. 
+```
+http://www.jslint.com
+http://www.jshint .com
+http:// www.jsonlint.com
+```
