@@ -37,3 +37,11 @@ There are several CSS properties that were created to work with specific types o
 * `text-align`: to align the writing to the left of some table cells and to the right of the others.
 * `background-color`: to change the background color of the alternating table rows.
 * `:hover`: to highlight a table row when a user's mouse goes over it.
+* `empty-cells`: to specify whether or not their borders should be shown.
+* `border-spacing`: allows you to control the distance between adjacent cells.
+**Forms Properties**:
+* Text Input: `font-size`, `color`, `background-color`, `border`, `border-radius`, `background-image`.
+* Submit Buttons: `color`, `text-shadow`, `border-bottom`, `background-color`.
+* Fieldsets and Legends: `width`, `color`, `background-color`, `border`, `border-radius`, `padding`.
+**Cursor**: `auto`, `crosshair`, `default`, `pointer`, `move`, `text`, `wait`, `help`, `url("cursor.gif");`
+
