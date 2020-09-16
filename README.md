@@ -21,10 +21,10 @@ Currently, I'm working my way to become a Software Development Engineer who is p
 |[06 - JS Object Literals; The DOM](class-06.md)|
 |[07 - HTML Tables; JS Constructor Functions](class-07.md)|
 |[08 - More CSS Layout](class-08.md)|
-|[09 - Forms and Events](README.md)|
-|[10 - JS Debugging](README.md)|
-|[11 - Assorted Topics](README.md)|
-|[12 - Docs for the HTML Element & Chart.js](README.md)|
-|[13 - Local Storage](README.md)|
-|[14a - CSS Transforms, Transitions, and Animations](README.md)|
-|[14b - What Google Learned About Teams](README.md)|  
+|[09 - Forms and Events](class-09.md)|
+|[10 - JS Debugging](class-10.md)|
+|[11 - Assorted Topics](class-11.md)|
+|[12 - Docs for the HTML Element & Chart.js](class-12.md)|
+|[13 - Local Storage](class13.md)|
+|[14a - CSS Transforms, Transitions, and Animations](class-14a.md)|
+|[14b - What Google Learned About Teams](class-14b.md)|  
