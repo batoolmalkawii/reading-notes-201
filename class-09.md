@@ -20,3 +20,20 @@ Also, form work as follows:
 2. The name of each form control is sent to the server along with the value the user enters or selects.
 3. The server processes the information using a programming language such as PHP, C#, VB.net, or Java. It may also store the information in a database.
 4. The server creates a new page to send back to the browser based on the information received.
+
+
+### 2. Lists, tables, and forms in _CSS_:
+There are several CSS properties that were created to work with specific types of HTML elements, such as lists, tables, and forms, and some are discussed in the following:
+* `list-style-type`: allows you to control the shape or style of a bullet point (also known as a **marker**).
+* `list-style-image`: pecifies an image to act as a bullet point.
+* `list-style-position`: indicates whether the marker should appear on the inside or the outside of the box containing the main points.
+* `list-style`: allows you to express the markers' style, image and position properties in any order.
+**Table properties**: 
+* `width`: to set the width of the table.
+* `padding`: to set the space between the border of each table cell and its content.
+* `text-transform`: to convert the content of the table headers to uppercase.
+* `letter-spacing`, `font-size`: to add additional styling to the content of the table headers.
+* `border-top`, `border-bottom`: to set borders above and below the table headers
+* `text-align`: to align the writing to the left of some table cells and to the right of the others.
+* `background-color`: to change the background color of the alternating table rows.
+* `:hover`: to highlight a table row when a user's mouse goes over it.
