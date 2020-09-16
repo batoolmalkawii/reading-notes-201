@@ -45,3 +45,23 @@ There are several CSS properties that were created to work with specific types o
 * Fieldsets and Legends: `width`, `color`, `background-color`, `border`, `border-radius`, `padding`.
 **Cursor**: `auto`, `crosshair`, `default`, `pointer`, `move`, `text`, `wait`, `help`, `url("cursor.gif");`
 
+
+### 3. Events in _Javascript_:
+When the user interacts with the HTML on a web page, there are 3 steps involved in getting it to trigger some JavaScript code. These steps are known as ***event handling***:
+1. Select the **element** node(s) you want the script to respond to.
+2. Indicate which **event** on the selected node(s) will trigger the response.
+3. State the **code** you want to run when the event occurs.
+
+**Event handlers** let you indicate which event you are waiting for on any particular element. There are three types of event handlers: 
+* HTML event handlers: _bad practice_.
+* Traditional DOM event handlers: _better than HTML handlers_.
+* DOM level2 event listeners: _the favored way_.
+
+When an event occurs, the event object tells you information about the event, and the element it happened upon. Creating event listeners for a lot of elements can slow down a page, but event flow allows you to listen for an event on a parent element. Also, the event object has methods that change: the default behavior of an element and how the element's ancestors respond to the event.
+
+When calling a function, the event object's target property is the best way to determine which element the event occurred on. But you may see the approach below used; it relies on the `this` keyword.
+
+**Events Types**:
+* W3C DOM EVENTS.
+* HTML5 EVENTS.
+* BOM EVENTS.
