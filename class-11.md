@@ -31,8 +31,7 @@ The following are properties used for background images:
 ### 2. Practical Information:
 _Search Engine Optimization (SEO)_: is the practice of trying to help your site appear nearer the top of search engine results when people look for the topics that your website covers. In order to determine who comes first in the search results, search engines do not only look at what appears on your site. 
 They also consider how many sites link to you (and how relevant those links are). For this reason, SEO is often split into two areas:
-* **on-page techniques**: In every page of your website there are seven key places where keywords (the words people might search on to find your site) can appear in order to improve its findability.
-1. Page title.
+* **on-page techniques**: In every page of your website there are seven key places where keywords (the words people might search on to find your site) can appear in order to improve its findability.1. Page title.
 2. URL.
 3. Headings.
 4. Text.
