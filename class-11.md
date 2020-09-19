@@ -39,5 +39,6 @@ They also consider how many sites link to you (and how relevant those links are)
 5. Link text.
 6. Image alt text.
 7. Page Descriptions.
+
 Determining which keywords to use on your site can be one of the hardest tasks when you start to think about SEO. Here are six steps that will help you identify the right keywords and phrases for your site.
 * **off-page techniques**: Brainstorm, organize, research, compare, refine, map.
