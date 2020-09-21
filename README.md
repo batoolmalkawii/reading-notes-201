@@ -25,6 +25,6 @@ Currently, I'm working my way to become a Software Development Engineer who is p
 |[10 - JS Debugging](class-10.md)|
 |[11 - Assorted Topics](class-11.md)|
 |[12 - Docs for the HTML Element & Chart.js](class-12.md)|
-|[13 - Local Storage](class13.md)|
+|[13 - Local Storage](class-13.md)|
 |[14a - CSS Transforms, Transitions, and Animations](class-14a.md)|
 |[14b - What Google Learned About Teams](class-14b.md)|  
