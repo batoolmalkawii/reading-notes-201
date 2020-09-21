@@ -18,3 +18,5 @@ HTML5 Storage is based on named `key/value` pairs. You store data based on a nam
 * `url`, `string`: the page which called a method that triggered this change.
 
 The `storage` event is not cancelable. From within the `handle_storage` callback function, there is no way to stop the change from occurring.
+
+In HTML5, there is a function used to store the progress locally in the brwoser so that the progress is not lost. For example, if you're playing a game and the browser closes, you'll lose your progress. In HTML5, we can save the progress locally, within the browser itself. Make a few moves, then close the browser tab, then re-open it. If your browser supports HTML5 Storage, the demonstration page should magically remember your exact position within the game, including the number of moves you’ve made, the position of each of the pieces on the board, and even whether a particular piece is selected. In that case, a function called `saveGameState()` was used with `local storage`, where data is stored as `strings`.
