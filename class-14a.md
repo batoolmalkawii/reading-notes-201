@@ -26,3 +26,33 @@ The default transform `origin` is the dead `center` of an element, both 50% hori
 * 3D scale: `scaleX`, `scaleY`, and `scaleZ`.
 * 3D translate: `translateX`, `translateY`, `translateZ`.
 * 3D skew: `skewX`, `skewY`, `skewZ`.
+
+
+
+### 2. Transitions and Animation:
+With CSS3 transitions you have the potential to alter the appearance and behavior of an element whenever a state change occurs, such as when it is hovered over, focused on, active, or targeted.
+Animations within CSS3 allow the appearance and behavior of an element to be altered in multiple keyframes. Transitions provide a change from one state to another, while animations can set multiple points of transition upon different keyframes.
+The easiest way for determining styles for different states is by using the `:hover`, `:focus`, `:active`, and `:target` pseudo-classes. There are four transition related properties in total, including `transition-property`, `transition-duration`, `transition-timing-function`, and `transition-delay`.
+
+***Transitions***
+
+* `transition-property`: determines exactly what properties will be altered in conjunction with the other transitional properties. By default, all of the properties within an element’s different states will be altered upon change. .
+* `transition-duration`: sets the duration in which a transition takes place.
+* `transition-timing-function`: used to set the speed in which a transition will move.
+* `transition-delay`: the delay sets a time value, seconds or milliseconds, that determines how long a transition should be stalled before executing.
+
+***Animation***
+
+`@keyframe` rule: To set multiple points at which an element should undergo a transition, which includes the`animation-name`, any `animation-breakpoints`, and the `properties` intended to be animated.
+The following are cool CSS transitions that can be applied to your web application:
+* Fade in.
+* Change color.
+* Grow and shrink.
+* Rotate elements.
+* Square to circle.
+* 3D shadow.
+* Swing.
+* Inset border.
+
+
+
